@@ -28,3 +28,7 @@ For more information, see [Configuring a ticket action to create Jira issues](ge
 For more information, see [Creating, editing, and testing ticket actions](troubleshooting.md).
  
 </details>
+
+## Where to go from here
+
+For more information about installing the product, see [Installing BMC Defender Server](installation.md).
