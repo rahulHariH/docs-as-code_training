@@ -14,7 +14,7 @@ If Jira returns an authorization error when BMC Defender Server attempts to crea
 </details>
 
 <details>
-<summary>Jira issue created from an action doesn't display information based on your updates to the script file</summary>
+<summary>Jira issue created from an action doesn't display information based on your updates to the script file</summary> 
  
 If a Jira issue created by a BMC Defender Server action doesn't display the right information based on your updates to the **JiraITSM.bat** (or your custom script) file, perform the following actions in sequence:
 
@@ -29,6 +29,6 @@ For more information, see [Creating, editing, and testing ticket actions](troubl
  
 </details>
 
-## Where to go from here
+## Where to go from here 
 
-For more information about installing the product, see [Installing BMC Defender Server](installation.md).
+For more information about installing the product, see [Installing BMC Defender Server](installation.md). 
