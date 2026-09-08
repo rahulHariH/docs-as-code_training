@@ -6,6 +6,7 @@ This topic provides a quick guide to install the _BMC AMI Command Center for Sec
 
 You can use the installation package to install at a new site or upgrade an existing site to the latest version. If you are upgrading, see the [Upgrading](upgrading.md) section for information about the different options.
 
+Quick comment from Dov
 
 ## Before you begin
 
