@@ -124,4 +124,5 @@ git switch -c brnachName
 switch to main branch
 git switch branchName
 
- 
+delete a branch
+git branch -d branchName
