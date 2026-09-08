@@ -1,5 +1,7 @@
 # Installing BMC Defender Server
 
+`Dov apporved this file.`
+
 This topic provides a quick guide to install the _BMC AMI Command Center for Security_ product (also known as the _BMC Defender Server_) on a Microsoft Windows platform.
 
 You can use the installation package to install at a new site or upgrade an existing site to the latest version. If you are upgrading, see the [Upgrading](upgrading.md) section for information about the different options.
@@ -36,3 +38,4 @@ When the installation process finishes, the CO-syslog.exe program is running on 
 During the installation process, detected errors stop progress of the installation and an error dialog indicates the cause of failure.
 
 No other steps are needed to install the program. BMC Defender does not require you to reboot the server after installation. Review all previous notices for SPEs and patches. See Notices.
+

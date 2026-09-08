@@ -118,6 +118,10 @@ git clone --branch my-branch --single-branch https://github.com/bmc-izot/izot-ix
 modifying a committed (staged) file | pulls it back from the commit stage
 git commit --amend -m "amendMsg"
 
+creating a new branch
+git switch -c brnachName
 
+switch to main branch
+git switch branchName
 
  
