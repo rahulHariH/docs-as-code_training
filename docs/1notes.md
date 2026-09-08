@@ -115,6 +115,9 @@ It is equivalent to a git fetch + git merge.
 
 git clone --branch my-branch --single-branch https://github.com/bmc-izot/izot-ix.git
 
- 
+modifying a committed (staged) file | pulls it back from the commit stage
+git commit --amend -m "amendMsg"
+
+
 
  

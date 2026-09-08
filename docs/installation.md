@@ -7,7 +7,7 @@ You can use the installation package to install at a new site or upgrade an exis
 
 ## Before you begin
 
-Before you begin the installation process, ensure the following:
+Before you begin the installation process, ensure the following: 
 
  - Close all windows and disable any port blocking or virus scan software on the system.
  - Download the installation files from the [BMC Electronic Product Download website](https://www.bmc.com/). Your ability to access product pages on the EPD website depends on the license entitlements purchased by your company.
