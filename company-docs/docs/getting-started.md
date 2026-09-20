@@ -33,7 +33,6 @@ function greet(name) {
 console.log(greet("world"));
 ```
 
-[Readme.md](../README.md)
 
 
 External link
