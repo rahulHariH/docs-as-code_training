@@ -40,7 +40,7 @@ External link
 
 For more information, see this [page](https://www.bmc.com/).
 
-![dummy image](/Images/bmc%20image1.png)
+![dummy image](../Images/bmc%20image1.png)
 
 
 **RND*versionNumber***
@@ -56,10 +56,10 @@ Continue with the installation guide.
 
 <img src="../Images/bmc image1.png" width="300" height="300" />
 
-<img src="/Images/bmc image1.png" width="300" height="300" />
+
 
 
 | Player | Sport | Age | Country  
 | :----: | ---- | ---- | ---- |
-| Saina | <b>Badminton | 42 | India |
+| Saina | Badminton | 42 | India |
 | Messi | Football | 40 | Argentina |
